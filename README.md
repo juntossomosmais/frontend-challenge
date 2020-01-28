@@ -22,7 +22,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 
 The [following layout](layout.jpg) need to be developed.
 
-<img src="layout.jpg" width="600">
+<img src="layout.jpg" width="800">
 
 Important to say that it is just a prototype, the idea is check your ability to propose improvements, features and contribute to the product UI 😄. Feel free to make improvements like new functionalities, animations, visual optimizations, etc.
 
