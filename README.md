@@ -40,6 +40,34 @@ The API that you need to develop this application is available at:
 
 - https://storage.googleapis.com/juntossomosmais-code-challenge/input-frontend-apps.json
 
+To optimize our service, we divided our consultants into three regions. Consider the points below to perform the filters.
+
+- **ESPECIAL**
+
+```
+minlon: -2.196998
+minlat -46.361899
+maxlon: -15.411580
+maxlat: -34.276938
+```
+```
+minlon: -19.766959
+minlat -52.997614
+maxlon: -23.966413
+maxlat: -44.428305
+```
+
+- **NORMAL**
+
+```
+minlon: -26.155681
+minlat -54.777426
+maxlon: -34.016466
+maxlat: -46.603598
+```
+
+- **TRABALHOSO:** Another users who do not comply with the other rules above.
+
 ## Questions
 
 If you have some questions or suggestions, send your questions directly to xx or opening a issue.
