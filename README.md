@@ -28,7 +28,7 @@ Important to say that it is just a prototype, the idea is check your ability to 
 
 You should to develop:
 
-- Filters by region and / or customer classification;
+- Filter by customer classification;
 - Search by name and / or last name;
 - Navigation when click on customer cards;
 - A internal page with more details of customers (use your creativity);
