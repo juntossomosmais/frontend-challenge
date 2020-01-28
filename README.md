@@ -6,11 +6,11 @@
 
 The main objective of this challenge is to test your skills in Front-end Development 🥳
 
-- Your code style;
+- Your coding style;
 - Knowledges on frameworks and other technologies;
 - Good practices;
 - Tests;
-- Your skills with UI.
+- Your skills with UI/UX.
 
 ## Rules
 
