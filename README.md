@@ -24,12 +24,12 @@ The [following layout](layout.jpg) need to be developed.
 
 <img src="layout.jpg" width="600">
 
-Important to say that it is just a prototype, the idea is check your ability to propose improvements and contribute to the product UI 😄
+Important to say that it is just a prototype, the idea is check your ability to propose improvements, features and contribute to the product UI 😄. Feel free to make improvements like new functionalities, animations, visual optimizations, etc.
 
 You should to develop:
 
-- Filters by region and/or customer classification;
-- Search by name and/or last name;
+- Filters by region and / or customer classification;
+- Search by name and / or last name;
 - Navigation when click on customer cards;
 - A internal page with more details of customers (use your creativity);
 - We'll be happy if you develop tests for it.
@@ -37,10 +37,6 @@ You should to develop:
 The API that you need to develop this application is available at: 
 
 - https://storage.googleapis.com/juntossomosmais-code-challenge/input-frontend-apps.json
-
-### Plus
-
-Feel free to make improvements like new functionalities, animations, visual optimizations, performance, security, etc 😋
 
 ## Questions
 
