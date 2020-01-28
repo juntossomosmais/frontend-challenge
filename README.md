@@ -4,7 +4,7 @@
 
 # <frontend-developer />
 
-The main objective of this challenge is to test your skills in Front-End Development 🥳
+The main objective of this challenge is to test your skills in Front-end Development 🥳
 
 - Your code style;
 - Knowledges on frameworks and other technologies;
