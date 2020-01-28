@@ -34,6 +34,8 @@ You should to develop:
 - A internal page with more details of customers (use your creativity);
 - We'll be happy if you develop tests for it.
 
+### API
+
 The API that you need to develop this application is available at: 
 
 - https://storage.googleapis.com/juntossomosmais-code-challenge/input-frontend-apps.json
