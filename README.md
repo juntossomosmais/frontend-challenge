@@ -14,9 +14,9 @@ The main objective of this challenge is to test your skills in Front-end Develop
 
 ## Rules
 
-- Your code should be made available in a public or private repository on your personal Github;
+- Your code should be made available in a **private** repository on your personal Github;
+- Allow read access on repository to **@felipefialho** and **@willianantunes**.
 - You can feel free to choose your favorite architectures, frameworks, libs and technologies;
-- Send link to xx.
 
 ## The Challenge
 
@@ -70,4 +70,4 @@ maxlat: -46.603598
 
 ## Questions
 
-If you have some questions or suggestions, send your questions directly to xx or opening a issue.
+If you have some questions or suggestions, send your questions directly to us or opening a issue.
