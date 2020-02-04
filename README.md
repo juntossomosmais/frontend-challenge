@@ -72,6 +72,14 @@ maxlat: -46.603598
 
 You can feel free to use BFF (Back-end for Front-end) before use it on client-side, if you think that if it makes sense 😁
 
+## Sending the test
+
+After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, with:
+
+- Title: **[Front-end Developer] Your name**;
+- Repository link with your test;
+- Information about you: Github, LinkedIn and everything you consider important.
+
 ## Questions
 
-If you have some questions or suggestions, send your questions directly to us or opening a issue.
+If you have some questions or suggestions, send your questions directly to us (vagas-dev@juntossomosmais.com.br) or opening a issue.
