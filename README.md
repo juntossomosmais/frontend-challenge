@@ -26,6 +26,8 @@ The [following layout](layout.jpg) need to be developed.
 
 Important to say that it is just a prototype, the idea is check your ability to propose improvements, features and contribute to the product UI 😄. Feel free to make improvements like new functionalities, animations, visual optimizations, etc.
 
+The logo is the same on repository.
+
 You should to develop:
 
 - Filter by customer classification;
@@ -67,6 +69,8 @@ maxlat: -46.603598
 ```
 
 - **TRABALHOSO:** Another users who do not comply with the other rules above.
+
+You can feel free to use BFF (Back-end for Front-end) before use it on client-side, if you think that if it makes sense 😁
 
 ## Questions
 
