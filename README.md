@@ -17,6 +17,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 - Your code should be made available in a **private** repository on your personal Github;
 - Allow read access on repository to [@felipefialho](https://github.com/felipefialho) and [@willianantunes](https://github.com/willianantunes).
 - You can feel free to choose your favorite architectures, frameworks, libs and technologies;
+- Ideally, you can deliver the challenge within 10 days. But if you need more time, let us know 😊
 
 ## The Challenge
 
