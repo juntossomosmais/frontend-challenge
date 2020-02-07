@@ -39,7 +39,7 @@ You should to develop:
 
 ### API
 
-The API that you need to develop this application is available at: 
+The JSON that you need to develop this application is available at: 
 
 - https://storage.googleapis.com/juntossomosmais-code-challenge/input-frontend-apps.json
 
