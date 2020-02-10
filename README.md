@@ -15,7 +15,6 @@ The main objective of this challenge is to test your skills in Front-end Develop
 ## Rules
 
 - Your code should be made available in a **private** repository on your personal Github;
-- Allow read access on repository to [@felipefialho](https://github.com/felipefialho) and [@willianantunes](https://github.com/willianantunes).
 - You can feel free to choose your favorite architectures, frameworks, libs and technologies;
 
 ## The Challenge
@@ -73,6 +72,8 @@ maxlat: -46.603598
 You can feel free to use BFF (Back-end for Front-end) before use it on client-side, if you think that if it makes sense 😁
 
 ## Sending the test
+
+- Allow read access on repository to [@felipefialho](https://github.com/felipefialho) and [@willianantunes](https://github.com/willianantunes).
 
 After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, with:
 
