@@ -40,7 +40,7 @@ You should to develop:
 
 The JSON that you need to develop this application is available at: 
 
-- https://storage.googleapis.com/juntossomosmais-code-challenge/input-frontend-apps.json
+- `https://jsm-challenges.s3.amazonaws.com/frontend-challenge.json`
 
 To optimize our service, we divided our consultants into three regions. Consider the points below to perform the filters.
 
