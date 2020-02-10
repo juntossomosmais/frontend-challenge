@@ -16,6 +16,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 
 - Your code should be made available in a **private** repository on your personal Github;
 - You can feel free to choose your favorite architectures, frameworks, libs and technologies;
+- Ideally, you can deliver the challenge within 10 days. But if you need more time, let us know 😊
 
 ## The Challenge
 
@@ -37,7 +38,7 @@ You should to develop:
 
 ### API
 
-The API that you need to develop this application is available at: 
+The JSON that you need to develop this application is available at: 
 
 - https://storage.googleapis.com/juntossomosmais-code-challenge/input-frontend-apps.json
 
