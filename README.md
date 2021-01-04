@@ -74,7 +74,7 @@ You can feel free to use BFF (Back-end for Front-end) before use it on client-si
 
 ## Sending the test
 
-- Allow read access on repository to [@felipefialho](https://github.com/felipefialho) and [@willianantunes](https://github.com/willianantunes).
+- Allow read access on repository to **@juntossomosmais/front-end** and **@juntossomosmais/tech-leads**
 
 After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, with:
 
