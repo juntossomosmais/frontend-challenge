@@ -47,24 +47,24 @@ To optimize our service, we divided our consultants into three regions. Consider
 - **ESPECIAL**
 
 ```
-minlon: -2.196998
+minlon: -15.411580
 minlat -46.361899
-maxlon: -15.411580
+maxlon: -2.196998
 maxlat: -34.276938
 ```
 ```
-minlon: -19.766959
+minlon: -23.966413
 minlat -52.997614
-maxlon: -23.966413
+maxlon: -19.766959
 maxlat: -44.428305
 ```
 
 - **NORMAL**
 
 ```
-minlon: -26.155681
+minlon: -34.016466
 minlat -54.777426
-maxlon: -34.016466
+maxlon: -26.155681
 maxlat: -46.603598
 ```
 
@@ -85,3 +85,6 @@ After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, wit
 ## Questions
 
 If you have some questions or suggestions, send your questions directly to us (vagas-dev@juntossomosmais.com.br) or opening a issue.
+
+Please, check if your question has already been answered in [a issue](https://github.com/juntossomosmais/frontend-challenge/issues) :relaxed:
+
