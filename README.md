@@ -86,5 +86,4 @@ After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, wit
 
 If you have some questions or suggestions, send your questions directly to us (vagas-dev@juntossomosmais.com.br) or opening a issue.
 
-Please, check if your question has already been answered in [a issue](https://github.com/juntossomosmais/frontend-challenge/issues) :relaxed:
-
+Please, check if your question has already been answered in [a issue](https://github.com/juntossomosmais/frontend-challenge/issues?q=) :relaxed:
