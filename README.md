@@ -38,7 +38,7 @@ You should develop:
 
 ### API
 
-The JSON that you need to develop for this application is available at: 
+The JSON that you need to develop for this application is available at:
 
 - `https://jsm-challenges.s3.amazonaws.com/frontend-challenge.json`
 
@@ -52,6 +52,7 @@ minlat -46.361899
 maxlon: -2.196998
 maxlat: -34.276938
 ```
+
 ```
 minlon: -20.000000
 minlat -52.997614
@@ -74,13 +75,12 @@ You can feel free to use BFF (Back-end for Front-end) before using it on client-
 
 ## Sending the test
 
-- Allow read access on repository to **@juntossomosmais/front-end** and **@juntossomosmais/tech-leads**
-
 After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, with:
 
 - Title: **[Front-end Developer] Your name**;
 - Repository link with your test;
-- Information about you: Github, LinkedIn and everything you consider important.
+- Request from users who need access to run the challenge;
+- Information about you: Github, LinkedIn and everything you consider important;
 
 ## Questions
 
