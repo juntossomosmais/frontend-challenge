@@ -30,8 +30,7 @@ The logo is the same as the one on the repository.
 
 You **should** develop:
 
-- Filter by customer gender;
-- Filter by customer state;
+- Filter by state;
 - Search by name and/or last name;
 - Pagination to navigate between cards;
 - Navigation when clicking on customer cards;
