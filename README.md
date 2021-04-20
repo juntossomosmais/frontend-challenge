@@ -10,7 +10,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 - Knowledge on frameworks and other technologies;
 - Good practices;
 - Tests;
-- Your skills with UI/UX.
+- Your skills about UI/UX.
 
 ## Rules
 
@@ -20,58 +20,41 @@ The main objective of this challenge is to test your skills in Front-end Develop
 
 ## The Challenge
 
-The [following layout](layout.jpg) need to be developed.
+### About the layout
 
-<img src="layout.jpg" width="800">
+The [following Figma layout needs to be developed](https://www.figma.com/file/ED8oK1CyH2BD5BjSAcy9vF/Teste-Front-end?node-id=505%3A2613).
 
-It's important to say that it is just a prototype, the idea is to check your ability to propose improvements, features and contribute to the product UI 😄. Feel free to make improvements like new functionalities, animations, visual optimizations, etc.
+The logo is the same as the one in the repository.
 
-The logo is the same as the one on the repository.
+It's important to say that it is just a prototype! We would also like to see your ability to propose improvements, features and new contributions to the product's UI 😄!
 
-You should develop:
+**Feel completely free** to make improvements such as:
 
-- Filter by customer classification;
-- Search by name and / or last name;
-- Navigation when clicking on customer cards;
-- A internal page with more details of customers (use your creativity);
-- We'll be happy if you develop tests for it.
+- Adding new functionalities;
+- Creating animations;
+- Developing visual optimizations;
+- etc
 
-### API
+You also can add new filters if you want 😋
+
+### About the API
 
 The JSON that you need to develop for this application is available at:
 
 - `https://jsm-challenges.s3.amazonaws.com/frontend-challenge.json`
 
-To optimize our service, we divided our consultants into three regions. Consider the points below to perform the filters.
+Feel free to use BFF (Back-end for Front-end) before using it on the client-side, if you think that if it makes sense 👀!
 
-- **ESPECIAL**
+### About the project
 
-```
-minlon: -15.411580
-minlat -46.361899
-maxlon: -2.196998
-maxlat: -34.276938
-```
+You **should** develop:
 
-```
-minlon: -20.000000
-minlat -52.997614
-maxlon: -19.766959
-maxlat: -44.428305
-```
-
-- **NORMAL**
-
-```
-minlon: -34.016466
-minlat -54.777426
-maxlon: -26.155681
-maxlat: -46.603598
-```
-
-- **TRABALHOSO:** Other users who do not comply with the rules above.
-
-You can feel free to use BFF (Back-end for Front-end) before using it on client-side, if you think that if it makes sense 😁
+- Filter by state;
+- Search by name and/or last name;
+- Pagination to navigate between cards;
+- Navigation when clicking on customer cards;
+- An **internal page** with more details of customers (use your creativity);
+- We'll be happy (😍) **if you develop tests** for it.
 
 ## Sending the test
 
@@ -84,6 +67,4 @@ After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, wit
 
 ## Questions
 
-If you have any questions or suggestions, send your questions directly to us (vagas-dev@juntossomosmais.com.br) or open an issue.
-
-Please, check if your question has already been answered in [a issue](https://github.com/juntossomosmais/frontend-challenge/issues?q=) :relaxed:
+If you have any questions or suggestions, send your questions directly to us (vagas-dev@juntossomosmais.com.br) or open an issue. But, before that, please, make sure that your question hasn't been answered on a previous [issue](https://github.com/juntossomosmais/frontend-challenge/issues?q=) 😌
