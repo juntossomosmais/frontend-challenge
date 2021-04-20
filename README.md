@@ -28,7 +28,12 @@ The logo is the same as the one in the repository.
 
 It's important to say that it is just a prototype! We would also like to see your ability to propose improvements, features and new contributions to the product's UI 😄!
 
-**Feel completely free** to make improvements like:
+**Feel completely free** to make improvements such as:
+
+- Adding new functionalities;
+- Creating animations;
+- Developing visual optimizations;
+- etc.
 
 - New functionalities
 - Animations
