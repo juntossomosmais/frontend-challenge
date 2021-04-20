@@ -37,7 +37,7 @@ It's important to say that it is just a prototype! We would also like to see you
 
 You also can add new filters if you want 😋
 
-### About API
+### About the API
 
 The JSON that you need to develop for this application is available at:
 
@@ -45,7 +45,7 @@ The JSON that you need to develop for this application is available at:
 
 Feel free to use BFF (Back-end for Front-end) before using it on the client-side, if you think that if it makes sense 👀!
 
-### About project
+### About the project
 
 You **should** develop:
 
