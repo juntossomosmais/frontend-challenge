@@ -20,7 +20,7 @@ The main objective of this challenge is to test your skills in Front-end Develop
 
 ## The Challenge
 
-### About layout
+### About the layout
 
 The [following Figma layout needs to be developed](https://www.figma.com/file/ED8oK1CyH2BD5BjSAcy9vF/Teste-Front-end?node-id=505%3A2613).
 
