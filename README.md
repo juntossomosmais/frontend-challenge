@@ -24,11 +24,9 @@ The main objective of this challenge is to test your skills in Front-end Develop
 
 The [following Figma layout needs to be developed](https://www.figma.com/file/ED8oK1CyH2BD5BjSAcy9vF/Teste-Front-end?node-id=505%3A2613).
 
-<img src="layout-jsm.png" width="800">
+The logo is the same as the one in the repository.
 
-It's important to say that it is just a prototype, the idea is to check your ability to propose improvements, features and contribute to the product UI 😄.
-
-The logo is the same as the one on the repository.
+It's important to say that it is just a prototype! We would also like to see your ability to propose improvements, features and new contributions to the product's UI 😄!
 
 **Feel completely free** to make improvements like:
 
