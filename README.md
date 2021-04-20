@@ -33,12 +33,7 @@ It's important to say that it is just a prototype! We would also like to see you
 - Adding new functionalities;
 - Creating animations;
 - Developing visual optimizations;
-- etc.
-
-- New functionalities
-- Animations
-- Visual optimizations
-- etc.
+- etc
 
 You also can add new filters if you want 😋
 
