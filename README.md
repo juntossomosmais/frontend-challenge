@@ -48,7 +48,7 @@ The JSON that you need to develop for this application is available at:
 
 - `https://jsm-challenges.s3.amazonaws.com/frontend-challenge.json`
 
-You can feel free to use BFF (Back-end for Front-end) before using it on client-side, if you think that if it makes sense 👀
+Feel free to use BFF (Back-end for Front-end) before using it on the client-side, if you think that if it makes sense 👀!
 
 ### About project
 
