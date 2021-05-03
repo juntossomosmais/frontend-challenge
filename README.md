@@ -56,13 +56,16 @@ You **should** develop:
 - An **internal page** with more details of customers (use your creativity);
 - We'll be happy (😍) **if you develop tests** for it.
 
-## Sending the test
+## Sending the Challenge
 
-After finishing the test, send an email to vagas-dev@juntossomosmais.com.br, with:
+After finishing the Challenge you could provide repo access to:
+
+- [@felipefialho](https://github.com/felipefialho)
+
+Then send an email to **vagas-dev@juntossomosmais.com.br**, with:
 
 - Title: **[Front-end Developer] Your name**;
 - Repository link with your test;
-- Request from users who need access to run the challenge;
 - Information about you: Github, LinkedIn and everything you consider important;
 
 ## Questions
