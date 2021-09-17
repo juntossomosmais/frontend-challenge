@@ -12,6 +12,8 @@ The main objective of this challenge is to test your skills in Front-end Develop
 - Tests;
 - Your skills about UI/UX.
 
+You can check some our Front-end Development patterns in our [frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) repository 😁
+
 ## Rules
 
 - Your code should be made available in a **private** repository on your personal Github;
