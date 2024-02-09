@@ -63,8 +63,6 @@ You **should** develop:
 After finishing the Challenge you could provide repo access to:
 
 - [@felipefialho](https://github.com/felipefialho)
-- [@JulioCVaz](https://github.com/JulioCVaz)
-- [@tassioFront](https://github.com/tassioFront)
 
 Then send an email to **vagas-dev@juntossomosmais.com.br**, with:
 
