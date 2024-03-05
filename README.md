@@ -72,4 +72,4 @@ Then send an email to **vagas-dev@juntossomosmais.com.br**, with:
 
 ## Questions
 
-If you have any questions or suggestions, send your questions directly to us (vagas-dev@juntossomosmais.com.br) or open an issue. But, before that, please, make sure that your question hasn't been answered on a previous [issue](https://github.com/juntossomosmais/frontend-challenge/issues?q=) 😌
+If you have any questions or suggestions, send your questions directly to us (felipe.fialho@juntossomosmais.com.br) or open an issue. But, before that, please, make sure that your question hasn't been answered on a previous [issue](https://github.com/juntossomosmais/frontend-challenge/issues?q=) 😌
