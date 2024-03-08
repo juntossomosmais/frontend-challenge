@@ -7,12 +7,12 @@
 The main objective of this challenge is to test your skills in Front-end Development 🥳
 
 - Your coding style;
-- Knowledge on frameworks and other technologies;
+- Knowledge of frameworks and other technologies;
 - Good practices;
 - Tests;
-- Your skills about UI/UX.
+- Your skills in UI/UX.
 
-You can check some our Front-end Development patterns in our [frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) repository 😁
+You can check some of our Front-end Development patterns in our [frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) repository 😁
 
 ## Rules
 
@@ -60,9 +60,10 @@ You **should** develop:
 
 ## Sending the Challenge
 
-After finishing the Challenge you could provide repo access to:
+After finishing the Challenge you could provide repo access to the:
 
 - [@felipefialho](https://github.com/felipefialho)
+- [@MayaraRMA](https://github.com/MayaraRMA)
 
 Then send an email to **vagas-dev@juntossomosmais.com.br**, with:
 
