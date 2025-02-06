@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="logo.svg" width="200" alt="Juntos Somos +">
+  <img src="https://github.com/user-attachments/assets/c16e9208-a4ce-459c-97e9-6a9f95b2f159" width="200" alt="Juntos Somos +">
 </p>
-
+ 
 # <frontend-developer />
 
 The main objective of this challenge is to test your skills in Front-end Development 🥳
