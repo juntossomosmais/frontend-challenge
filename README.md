@@ -24,7 +24,7 @@ You can check some of our Front-end Development patterns in our [frontend-guidel
 
 ### About the layout
 
-The [following Figma layout needs to be developed](https://www.figma.com/file/RG2Ro8NwAt1HsMASwbZcUx/Teste-Front-end-2?node-id=2%3A7938).
+You can find the layout in the `layout-jsm.png` file.
 
 The logo is the same as the one in the repository.
 
