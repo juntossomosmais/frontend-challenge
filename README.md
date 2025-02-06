@@ -64,6 +64,7 @@ After finishing the Challenge you could provide repo access to the:
 
 - [@felipefialho](https://github.com/felipefialho)
 - [@MayaraRMA](https://github.com/MayaraRMA)
+- [@tassioFront](https://github.com/tassioFront)
 
 Then send an email to **vagas-dev@juntossomosmais.com.br**, with:
 
