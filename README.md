@@ -319,8 +319,7 @@ Choose your favorite framework/library. We're framework-agnostic!
 
 ```
 📁 your-repo/
-├── 📂 src/                  # Source code
-├── 📂 tests/                # Tests
+├── 📂 src/                  # Source code (tests alongside components)
 ├── 📂 ai-journey/           # AI documentation (required!)
 │   ├── 📄 README.md
 │   ├── 📄 prompts.md

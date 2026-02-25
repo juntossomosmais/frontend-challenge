@@ -319,8 +319,7 @@ Escolha seu framework/biblioteca favorito. Somos agnósticos de framework!
 
 ```
 📁 seu-repo/
-├── 📂 src/                  # Código fonte
-├── 📂 tests/                # Testes
+├── 📂 src/                  # Código fonte (testes junto dos componentes)
 ├── 📂 ai-journey/           # Documentação de IA (obrigatório!)
 │   ├── 📄 README.md
 │   ├── 📄 prompts.md
