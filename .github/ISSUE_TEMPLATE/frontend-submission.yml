@@ -1,0 +1,171 @@
+name: "Frontend Challenge Submission"
+description: "Submit your frontend challenge solution"
+title: "[Frontend] "
+labels: ["submission", "frontend", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for submitting your challenge! 🎉
+        Please fill out the information below so we can review your work.
+
+  - type: input
+    id: name
+    attributes:
+      label: Full Name
+      placeholder: "John Doe"
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      placeholder: "john.doe@example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      description: "Link to your public GitHub repository"
+      placeholder: "https://github.com/username/my-challenge"
+    validations:
+      required: true
+
+  - type: input
+    id: demo-url
+    attributes:
+      label: Live Demo URL (optional)
+      description: "If you deployed your app (Vercel, Netlify, etc.)"
+      placeholder: "https://my-challenge.vercel.app"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: framework
+    attributes:
+      label: Framework/Library Used
+      options:
+        - React
+        - Vue.js
+        - Angular
+        - Next.js
+        - Nuxt
+        - Svelte
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: "Confirm you've completed these items"
+      options:
+        - label: "All required features are implemented (search, filter, pagination, detail page)"
+          required: true
+        - label: "README with setup instructions is included"
+          required: true
+        - label: "`/ai-journey` folder is present with documentation"
+          required: true
+        - label: "Application is responsive"
+          required: false
+        - label: "Tests are included"
+          required: false
+
+  - type: textarea
+    id: approach
+    attributes:
+      label: Approach Summary
+      description: "Briefly describe your approach, architecture decisions, and any trade-offs you made"
+      placeholder: |
+        - Used Next.js for SSR and better SEO
+        - Implemented component composition pattern
+        - Chose Tailwind CSS for rapid styling
+        - Trade-off: Prioritized UX over adding extra features
+    validations:
+      required: true
+
+  - type: textarea
+    id: ui-improvements
+    attributes:
+      label: UI/UX Improvements
+      description: "What improvements did you make to the original prototype?"
+      placeholder: |
+        - Added dark mode toggle
+        - Implemented skeleton loaders for better perceived performance
+        - Added keyboard navigation for accessibility
+        - Created micro-animations for interactions
+    validations:
+      required: true
+
+  - type: textarea
+    id: ai-summary
+    attributes:
+      label: AI Usage Summary
+      description: "Quick summary of how you used AI tools (details should be in /ai-journey)"
+      placeholder: |
+        - Used ChatGPT for component architecture decisions
+        - Claude helped with CSS animations
+        - Copilot for test boilerplate
+    validations:
+      required: true
+
+  - type: textarea
+    id: challenges
+    attributes:
+      label: Biggest Challenges
+      description: "What was the hardest part? What would you do differently with more time?"
+      placeholder: |
+        Hardest: Making the filter and search work together efficiently
+        With more time: Would add E2E tests and improve accessibility
+    validations:
+      required: false
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn
+      description: "Your LinkedIn profile URL"
+      placeholder: "https://linkedin.com/in/johndoe"
+    validations:
+      required: true
+
+  - type: input
+    id: github-profile
+    attributes:
+      label: GitHub Profile
+      description: "Your GitHub profile URL (not the challenge repo)"
+      placeholder: "https://github.com/johndoe"
+    validations:
+      required: true
+
+  - type: input
+    id: time-spent
+    attributes:
+      label: Time Spent (optional)
+      description: "Approximately how long did you spend on this?"
+      placeholder: "~15 hours over 5 days"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything Else?
+      description: "Any additional context you'd like to share"
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **What happens next?**
+        1. Our team will review your submission
+        2. We may reach out with questions or feedback
+        3. Great submissions stay on our radar for future opportunities
+
+        Thanks for your interest in Juntos Somos Mais! 💛

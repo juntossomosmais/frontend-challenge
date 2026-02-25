@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "❓ Questions"
+    url: "https://github.com/juntossomosmais/frontend-challenge/issues?q=is%3Aissue"
+    about: "Check if your question was already answered in previous issues"
+  - name: "📧 Contact"
+    url: "mailto:vagas-dev@juntossomosmais.com.br"
+    about: "Send an email for other inquiries"
